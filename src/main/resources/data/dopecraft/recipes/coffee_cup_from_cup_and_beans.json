@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dopecraft:roasted_coffee_beans"
+    },
+    {
+      "item": "dopecraft:cup"
+    }
+  ],
+  "result": {
+    "item": "dopecraft:coffee_cup"
+  }
+}
