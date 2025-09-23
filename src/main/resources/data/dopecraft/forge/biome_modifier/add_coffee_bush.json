@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#dopecraft:has_coffee_bush",
+  "features": [
+    "dopecraft:coffee_bush_placed"
+  ],
+  "step": "vegetal_decoration"
+}

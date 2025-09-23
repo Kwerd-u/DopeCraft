@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "dopecraft:block/coffee_bush_stage0"
+    },
+    "age=1": {
+      "model": "dopecraft:block/coffee_bush_stage1"
+    },
+    "age=2": {
+      "model": "dopecraft:block/coffee_bush_stage2"
+    },
+    "age=3": {
+      "model": "dopecraft:block/coffee_bush_stage3"
+    },
+    "age=4": {
+      "model": "dopecraft:block/coffee_bush_stage4"
+    }
+  }
+}

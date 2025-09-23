@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dopecraft:roasted_coffee_beans"
+    },
+    {
+      "item": "dopecraft:roasted_coffee_beans"
+    },
+    {
+      "item": "dopecraft:can"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "dopecraft:energy_drink"
+  }
+}
