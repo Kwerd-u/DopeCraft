@@ -1,9 +1,11 @@
 {
-  "effect.dopecraft.coffee_effect": "Бодрость",
+  "effect.dopecraft.caffeine_effect": "Бодрость",
+  "effect.dopecraft.caffeine_crash_effect": "Усталость",
 
   "item.dopecraft.coffee_cup": "Кружка кофе",
   "item.dopecraft.cup": "Пустая кружка",
   "item.dopecraft.coffee_beans": "Зёрна кофе",
   "item.dopecraft.roasted_coffee_beans": "Жареные зёрна кофе",
-  "item.dopecraft.energy_drink": "Энергетик"
+  "item.dopecraft.energy_drink": "Энергетик",
+  "item.dopecraft.can": "Пустая банка"
 }

@@ -22,6 +22,7 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.COFFEE_BEANS.get());
                         output.accept(ModItems.ROASTED_COFFEE_BEANS.get());
                         output.accept(ModItems.ENERGY_DRINK.get());
+                        output.accept(ModItems.CAN.get());
                     })
 
                     .build());
